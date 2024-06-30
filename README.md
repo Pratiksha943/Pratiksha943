@@ -1,0 +1,5 @@
+- 👋 Hello World !
+-  I’m @Pratiksha943
+- 👀 I’m a Computer Science Engineer , a Passionate Programmer and a tech Enthusiast , who believes in solving the Real World Problems using Programming and Software.
+- 🌱 I’m currently learning Advance Java and new Web development Technologies
+- 📫 How to reach me kadampratiksha943@gmail.com
